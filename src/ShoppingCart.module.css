@@ -1,0 +1,27 @@
+.soccerBuy{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+.topHeaderImage{
+    width:20%;
+    align-self: center;
+    height:auto;
+    margin-left: 35%;
+}
+.backMain{
+    padding-left: 14%;
+}
+
+.backsport{
+    padding-left: 4%;
+}
+.shoppingCart{
+    padding-left: 4%;
+    
+
+}
+
+.itemFromCart{
+    width:20%;
+    height:auto;
+}

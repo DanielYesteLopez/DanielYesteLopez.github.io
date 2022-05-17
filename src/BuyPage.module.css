@@ -1,0 +1,24 @@
+.topHeaderImage{
+    width:20%;
+    align-self: center;
+    height:auto;
+    margin-left: 29%;
+}
+.backMain{
+    padding-left: 14%;
+    font-family: Roboto;
+}
+
+.backsport{
+    padding-left: 4%;
+    font-family: Roboto;
+}
+.itemFromCart{
+    margin-top: 5%;
+    width: 20%;
+}
+
+
+.buyOptions{
+    margin-top: 5%;
+}

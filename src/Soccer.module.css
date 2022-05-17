@@ -1,0 +1,29 @@
+.soccerBuy{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+.topHeaderImage{
+    width:20%;
+    align-self: center;
+    height:auto;
+    margin-left: 35%;
+}
+.backMain{
+    padding-left: 14%;
+    font-family: Roboto;
+}
+
+.backsport{
+    padding-left: 4%;
+    font-family: Roboto;
+}
+.shoppingCart{
+    padding-left: 4%;
+    font-family: Roboto;
+}
+
+.bootsImage{
+    align-self: center;
+    width:40%;
+    flex:1;
+}
