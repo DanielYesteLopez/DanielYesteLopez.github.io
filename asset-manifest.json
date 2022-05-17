@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DanielYesteLopez.github.io/static/css/main.9e437218.css",
+    "main.js": "/DanielYesteLopez.github.io/static/js/main.90dde306.js",
+    "static/js/787.89e77d7a.chunk.js": "/DanielYesteLopez.github.io/static/js/787.89e77d7a.chunk.js",
+    "static/media/shoppingCart.jpg": "/DanielYesteLopez.github.io/static/media/shoppingCart.51c536b419e02e0b34d1.jpg",
+    "static/media/soccer_image.jpeg": "/DanielYesteLopez.github.io/static/media/soccer_image.51f5f3c7ba6ae4d70dd1.jpeg",
+    "static/media/basketball_jump.jpeg": "/DanielYesteLopez.github.io/static/media/basketball_jump.d5b7d017322a4c38941f.jpeg",
+    "static/media/cyclyng.jpeg": "/DanielYesteLopez.github.io/static/media/cyclyng.b923ee241228ef1afdcc.jpeg",
+    "static/media/swimming.jpeg": "/DanielYesteLopez.github.io/static/media/swimming.38b75ed533feb9248e6a.jpeg",
+    "static/media/main_image.jpeg": "/DanielYesteLopez.github.io/static/media/main_image.d5059ac20d9363de57e4.jpeg",
+    "static/media/botas.jpg": "/DanielYesteLopez.github.io/static/media/botas.cc9052cb55e714c291bd.jpg",
+    "static/media/questionMark.png": "/DanielYesteLopez.github.io/static/media/questionMark.22c38de21547aab05ad9.png",
+    "static/media/running.jpeg": "/DanielYesteLopez.github.io/static/media/running.205106b65288bfbfc201.jpeg",
+    "static/media/appLogo.png": "/DanielYesteLopez.github.io/static/media/appLogo.209447046ccb3e6a5a35.png",
+    "static/media/paypal-brands.svg": "/DanielYesteLopez.github.io/static/media/paypal-brands.3e77fb6efb2e0a6d976ef15414ac5fd7.svg",
+    "index.html": "/DanielYesteLopez.github.io/index.html",
+    "main.9e437218.css.map": "/DanielYesteLopez.github.io/static/css/main.9e437218.css.map",
+    "main.90dde306.js.map": "/DanielYesteLopez.github.io/static/js/main.90dde306.js.map",
+    "787.89e77d7a.chunk.js.map": "/DanielYesteLopez.github.io/static/js/787.89e77d7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e437218.css",
+    "static/js/main.90dde306.js"
+  ]
+}
